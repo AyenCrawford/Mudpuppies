@@ -1,0 +1,138 @@
+body {
+  background-color:#000000;
+}
+
+#title {
+  color:#FFFFFF;
+  font-family:Gill Sans;
+  text-align:center;
+  font-size:500%;
+}
+
+span {
+  color:FFFFFF;
+  font-family:Impact;
+  text-align:center;
+  font-size:50px;
+}
+
+#header {
+  margin:auto;
+  margin-top:1%;
+  background-color:#336600;
+  border-radius:10px;
+  border-style:dashed; 
+  border-color:#1D3900;
+  border-width:10px;
+  width:55%;
+  height:20%;
+  line-height:1;
+  text-align:center;
+}
+
+#main {
+  background-color:#00B85C;
+  border-style:dashed;
+  border-color:#336600;
+  border-width:10px;
+  border-radius:10px;
+  width:54.50%;
+  position:absolute;
+  bottom:2%;
+  top:25%;
+  left:22.25%;
+}
+
+#pic {
+  opacity:0;
+  filter:alpha(opacity=40);
+  margin-bottom:0%;
+}
+
+#image {
+  margin:auto;
+  text-align:center;
+}
+
+.bodyText {
+  color:#FFFFFF;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size:150%;
+  text-align:center;
+
+}
+
+.button {
+  height:12%;
+  width:25%;
+  font-size:300%;
+  background-color:green;
+  text-align:center;
+  margin:auto;
+  margin-top:2.5%;
+  border-radius:10px;
+  text-align:center;
+  line-height:1.6;
+  font-family:Gill Sans;
+  color:#00B85C;
+}
+
+.button:hover {
+  height:12%;
+  width:25%;
+  font-size:400%;
+  background-color:green;
+  text-align:center;
+  margin:auto;
+  margin-top:2.5%;
+  border-radius:10px;
+  text-align:center;
+  line-height:1.15;
+  font-family:Gill Sans;
+  color:#00B85C;
+  box-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+           0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+           0 0 40px #A5F1FF;
+}
+
+#playAgain {
+  font-size:200%;
+  line-height:2.65;
+}
+
+#playAgain:hover{
+  font-size:225%;
+  line-height:2.35;
+}
+
+#textBox {
+  margin:auto;
+  margin-top:0%;
+  background-color:#74A259;
+  width:60%;
+  border-radius:10px; 
+  padding-left:5%;
+  padding-right:5%;
+  padding-top:2%;
+  padding-bottom:2%;
+  border-style:solid;
+  border-width:5px;
+  border-color:#336600;
+}
+
+#nar1 {
+  text-align:justify;
+}
+
+#nar2 {
+  opacity:0;
+}
+
+#submit1 {
+  margin-top:5%;
+}
+
+span {
+  color:red;
+  font-size:100%;
+}
