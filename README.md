@@ -4,7 +4,7 @@
 
 ----
 ###About
-> In this guessing game, a player adventures into a swamp. After spotting movement in the water, the player tries to guess how many mudpuppies there are.
+> In this guessing game, the player adventures into a swamp. After spotting movement in the water, the player tries to guess how many mudpuppies there are.
 
 ----
 ###Usage
